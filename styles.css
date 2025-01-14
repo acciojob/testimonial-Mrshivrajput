@@ -1,3 +1,5 @@
+
+
 /* main container */
 
 h1{
@@ -33,7 +35,7 @@ h1{
 }
 /* testimonial text. */
 
-span {
+.Author {
   font-size: 20px;
   font-weight: bold;
   color: #000;
@@ -42,3 +44,4 @@ span {
   padding-right: 20px;
   text-align: right;
 }
+
